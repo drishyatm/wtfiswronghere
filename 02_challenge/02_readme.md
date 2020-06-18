@@ -1,0 +1,2 @@
+Error message describe it as type error and takes one argument , however there were nno arguments passed . Error message also showed the error is in line 26. 
+Hence edited the line 26 ,fizzbuzz(100) and it worked . 
